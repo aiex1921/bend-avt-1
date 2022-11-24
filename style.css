@@ -1,0 +1,54 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css");
+
+.fs1{
+    font-size: 2rem;
+}
+
+.p{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 1.3rem;
+}
+
+.header{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #242729;
+    color: white;
+    height: 5rem;
+}
+
+.body{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.s{
+    color: white;
+    text-decoration: none;
+}
+
+.sc{
+    color: white;
+}
+
+.bt{
+    display: flex;
+    justify-content:space-between;
+    flex-flow: row wrap;
+    align-items: center;
+
+}
+
+
+.card-1{
+    margin-top: .5rem;
+    border: 0;
+}
